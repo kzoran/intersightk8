@@ -16,15 +16,15 @@ vc_cluster = "hxaf4"
   
 vc_datastore = "hxaf4_ds1"
 
-vc_portgroup = ["DPortGroup_VLAN1902"]
+vc_portgroup = ["ACIPLS|ACIPLS|VLAN22_EPG"]
 
-ip_starting_address = "192.168.2.150"
+ip_starting_address = "10.2.2.210"
 
 ip_pool_size = "20"
 
 ip_netmask = "255.255.255.0"
 
-ip_gateway = "192.168.2.1"
+ip_gateway = "10.2.2.254"
 
 worker_size = "small"
 
