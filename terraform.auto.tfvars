@@ -2,7 +2,7 @@ cluster_name = "pickle-iks"
 
 vc_target_name ="10.2.0.3"
 
-ip_primary_dns = "192.168.2.2"
+ip_primary_dns = "10.2.2.1"
 
 ip_secondary_dns = "208.67.220.222"
 
