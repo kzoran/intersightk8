@@ -2,13 +2,13 @@ cluster_name = "pickle-iks"
 
 vc_target_name ="10.2.0.3"
 
-ip_primary_dns = "192.168.2.1"
+ip_primary_dns = "192.168.2.2"
 
 ip_secondary_dns = "208.67.220.222"
 
 domain_name = "glasshouse.com"
 
-ntp_servers = ["171.68.10.80"]
+ntp_servers = ["10.2.0.1"]
  
 timezone = "America/Los_Angeles"
 
@@ -24,7 +24,7 @@ ip_pool_size = "20"
 
 ip_netmask = "255.255.255.0"
 
-ip_gateway = "172.168.2.1"
+ip_gateway = "192.168.2.1"
 
 worker_size = "small"
 
