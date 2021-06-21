@@ -6,9 +6,9 @@ ip_primary_dns = "192.168.2.2"
 
 ip_secondary_dns = "208.67.220.222"
 
-domain_name = "glasshouse.com"
+domain_name = "plslab.net"
 
-ntp_servers = ["10.2.0.1"]
+ntp_servers = ["10.2.2.1"]
  
 timezone = "America/Los_Angeles"
 
