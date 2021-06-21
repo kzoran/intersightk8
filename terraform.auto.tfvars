@@ -1,4 +1,5 @@
-###updated by kzoran 06/21/2021
+###updated by kzoran 06/21/2021-
+### changed the port group name
 cluster_name = "pickle-iks"
 
 vc_target_name ="10.2.0.3"
@@ -17,7 +18,7 @@ vc_cluster = "PLSLAB"
   
 vc_datastore = "a300_datastore1"
 
-vc_portgroup = ["DportGroup_VLAN1902"]
+vc_portgroup = ["dvPortGroup_VLAN1902"]
 
 ip_starting_address = "192.168.2.160"
 
