@@ -13,9 +13,9 @@ ntp_servers = ["10.2.2.1"]
  
 timezone = "America/Los_Angeles"
 
-vc_cluster = "PLSLAB"
+vc_cluster = "HXPLS"
   
-vc_datastore = "a300_datastore1"
+vc_datastore = "hxpls_datastore01"
 
 vc_portgroup = ["dvPortGroup_VLAN22"]
 
